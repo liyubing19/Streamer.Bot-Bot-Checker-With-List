@@ -9,7 +9,7 @@
 1) Copy The Streamer.Bot Import String
 2) Paste It Into The Import String Box In Streamer.Bot
 3) Place The txt_files Folder Into C:\Program Files\obs-studio\
-4) 
+4) Now In Streamer.bot Create A Sub-Action Core > Actions > Run ACtion > Choose Bot_Checker To Any Action To Check If User Is A Bot
 
 
 Streamer.Bot Inport String
