@@ -18,4 +18,4 @@ U0JBRR+LCAAAAAAABADNWWlz4kgS/T4R8x8Iz9eWVydI/c3IFodt2lwS1tIxUZeEjA5WB9dE//dNCYEt
 ```
 
 
-![alt text]([http://url/to/img.png](https://github.com/MrrZed0/Streamer.Bot-Bot-Checker-With-List/blob/main/Untitled.png?raw=true))
+https://github.com/MrrZed0/Streamer.Bot-Bot-Checker-With-List/blob/main/Untitled.png?raw=true))](https://github.com/MrrZed0/Streamer.Bot-Bot-Checker-With-List/blob/main/Untitled.png?raw=true
