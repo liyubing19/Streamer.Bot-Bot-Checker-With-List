@@ -7,6 +7,7 @@ Streamer.Bot Bot Checker With Full Bot List, There Are Over 1,000 Bots Listed In
 **UPDATED 12/12/2024**
 [Full Bot List](https://github.com/MrrZed0/Streamer.Bot-Bot-Checker-With-List/blob/main/obs-studio/txt_files/Bots.txt)
 
+** Works With Twitch, YouTube, Kick.com integration for Streamer.bot **
 
 <ins>Install</ins>
 1) Copy The Streamer.Bot Import String
