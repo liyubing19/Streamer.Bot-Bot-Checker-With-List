@@ -10,6 +10,7 @@ Streamer.Bot Bot Checker With Full Bot List, There Are Over 1,000 Bots Listed In
 ** Works With Twitch, YouTube, Kick.com integration for Streamer.bot **
 
 <ins>Features:</ins>
+- Includes All Twitch Bots, YouTube Bots, Kick Bots [All Bots Names Are In Capital & None-Capital Letters]
 - Checks Text File For Bot Name
 - If Bot Is Found In Text File It Stops The Scrip
 - Sets Argument To 'Bots' To 'True or False' Depending If Found
